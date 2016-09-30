@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/hibernate-core.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/slf4j-api.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/test/asm.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/test/commons-collections.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/test/javassist.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/test/jta.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/test/log4j.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate/lib/test/slf4j-log4j12.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate dist/hibernate-distribution-3.3.2.GA/hibernate3.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate dist/hibernate-distribution-3.3.2.GA/lib/required/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/hibernate dist/hibernate-distribution-3.3.2.GA/lib/optional/ehcache/ehcache-1.2.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/home/rakeshgupta/Public/JPA/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
