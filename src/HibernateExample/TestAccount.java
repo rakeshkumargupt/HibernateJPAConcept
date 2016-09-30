@@ -10,6 +10,7 @@ public class TestAccount {
 
     public static void main(String[] args) {
         AnnotationConfiguration annotationConf = new AnnotationConfiguration();
+        System.out.print("");
         annotationConf.addAnnotatedClass(Account.class);
         annotationConf.addAnnotatedClass(Transaction.class);
         annotationConf.configure("hibernate.cfg.xml");
